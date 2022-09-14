@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1663163543 source:d:\code_blocks_codes\ftcday2\untitled2.c
+	<math.h>
+
+1663162294 source:d:\code_blocks_codes\ftcday2\main.c
+	<stdio.h>
+	<assert.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"day2.h"
+
+1663162171 d:\code_blocks_codes\ftcday2\day2.h
+
